@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">F.R.I.D.A.Y.</string>
+    <string name="app_subtitle">Advanced Personal AI Mobile Assistant</string>
+    <string name="accessibility_service_description">F.R.I.D.A.Y. Accessibility Service enables user-authorized, automated interaction with permitted applications and web pages. It NEVER automates or interacts with banking, payment, or financial applications.</string>
+    <string name="voice_service_notification_title">F.R.I.D.A.Y. Voice Engine Active</string>
+    <string name="voice_service_notification_text">Listening for user commands with active security blocklist protection.</string>
+    <string name="security_refusal_message">Sorry, I cannot access or automate payment applications. This restriction is part of my security configuration.</string>
+</resources>
+

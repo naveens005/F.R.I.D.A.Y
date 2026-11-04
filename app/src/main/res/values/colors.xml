@@ -1,0 +1,11 @@
+<resources>
+    <color name="friday_bg_dark">#070B14</color>
+    <color name="friday_surface">#0D1527</color>
+    <color name="friday_cyan_primary">#00F0FF</color>
+    <color name="friday_blue_secondary">#0077FE</color>
+    <color name="friday_gold_alert">#FFB703</color>
+    <color name="friday_crimson_block">#FF2A6D</color>
+    <color name="friday_text_primary">#FFFFFF</color>
+    <color name="friday_text_secondary">#8E9BAE</color>
+</resources>
+

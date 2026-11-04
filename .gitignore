@@ -1,0 +1,53 @@
+# Built application files
+*.apk
+!FRIDAY_Assistant_Release.apk
+*.ap_
+*.aab
+
+# Files for the ART/Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated build directories
+build/
+app/build/
+**/build/
+bin/
+gen/
+out/
+
+# Gradle caches and metadata
+.gradle/
+buildOutputCleanup/
+
+# Local configuration file (SDK paths, local machine paths)
+local.properties
+
+# Log Files
+*.log
+
+# Android Studio / IntelliJ IDEA / Editors
+*.iml
+.idea/
+.kotlin/
+.navigation/
+captures/
+.vscode/
+
+# Python / Backend virtual environments & caches
+backend/venv/
+venv/
+ENV/
+env/
+**/__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+**/.pytest_cache/
+.env
+
+# OS-specific
+.DS_Store
+Thumbs.db
